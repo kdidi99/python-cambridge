@@ -1,1 +1,7 @@
+To run the program, type main() in the console and follow the instructions of the program. Make sure to type the system types exactly as stated in the instructions
+appearing after typing main().
 
+The program outputs the energies and the corresponding degeneracies. Comments have been added in the code to make it more readable.
+
+For the dodecahedron, a publicly available csv file for the adjacency matrix was used: This csv file is also present in this folder and is necessary to 
+compute the dodecahedron.
