@@ -3,6 +3,6 @@ The program takes the location of the folder containing the Gaussian Files as in
 To run the program, type main() and follow the instruction (giving the program the directory of the files). 
 
 In the program, there are comments to explain the code and additional comments containing print commands at several stages which I used for debugging and which might
-be helpful if some parts of the program are not cleared/some values need to be verified.
+be helpful if some parts of the program are not clear/some values need to be verified.
 
 For fitting the data, I always aimed for fitting around ten data points around the minimum to get a sensible result.
